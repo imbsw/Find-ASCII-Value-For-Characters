@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548859070 source:c:\users\buddh\documents\my projects\find ascii value for characters\main.c
+	<stdio.h>
+	<stdlib.h>
+
